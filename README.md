@@ -1,1 +1,3 @@
-# Skys-Horizon
+# **Skys Horizon**
+Everything about the datapack
+
